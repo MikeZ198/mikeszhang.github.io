@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https:///al-folio/sitemap.xml
+Sitemap: https://mikeszhang.github.io/sitemap.xml
