@@ -12,7 +12,7 @@ profile:
     <p>🏫 Kowloon, Hong Kong SAR</p>
     <p>🏠 Shanghai, China</p> <br> 
     <p><a href='https://orcid.org/0009-0006-6035-6596' target='_blank' rel='noopener noreferrer' style='text-decoration:none; color:inherit; display:inline-flex; align-items:left; gap:4px;'><img src='https://orcid.org/assets/vectors/orcid.logo.icon.svg' height='18' width='18'>ORCID</a></p> <br>
-    <p>🎓 '[Google Scholar](https://scholar.google.com/citations?user=xDR1faMAAAAJ&hl=en)' </p>
+    <p>🎓 <a href='https://scholar.google.com/citations?user=xDR1faMAAAAJ&hl=en'>Google Scholar</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
