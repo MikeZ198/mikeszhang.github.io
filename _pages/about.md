@@ -27,4 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here.
+I am currently a Ph.D. candidate at [School of Communication, Hong Kong Baptist University](https://www.comm.hkbu.edu.hk/comd-www/english/front/index.htm) under the supervison of Prof. Jos BARTELS.
