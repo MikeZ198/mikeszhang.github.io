@@ -1,7 +1,7 @@
 ---
-layout: About
-title: About
-
+layout: about
+title: about
+permalink: /
 subtitle: B.A., M.Soc.Sc
 
 profile:
@@ -27,4 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-
+Write your biography here.
