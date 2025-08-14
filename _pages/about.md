@@ -1,7 +1,7 @@
 ---
 layout: About
 title: About
-permalink: /
+
 subtitle: B.A., M.Soc.Sc
 
 profile:
