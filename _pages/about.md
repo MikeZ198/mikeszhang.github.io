@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: (He/Him) B.A., M.Soc.Sc
+subtitle: (He/Him)  B.A., M.Soc.Sc
 
 profile:
   align: right
