@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>🏫Kowloon, Hong Kong SAR</p>
     <p>🏠Shanghai, China</p>
-    <p><a href="https://orcid.org/0009-0006-6035-6596" target="_blank" rel="noopener noreferrer">
+    <p><a href="https://orcid.org/0009-0006-6035-6596" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:inherit;">
   <img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="ORCID iD" width="20" height="20" style="vertical-align:middle; margin-right:4px;">
   ORCID
 </a>
