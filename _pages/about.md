@@ -27,8 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently a Ph.D. candidate at School of Communication, Hong Kong Baptist University. My main research interest lies in organisational communication, particularly the interactional and cross-cultural dynamics between organisational members in the Information and Communication Technologies (ICTs) permeated workplace. I also take on cross-disciplinary interests (and also have collaborations with some nice people)in organisational behaviour, management information system, quantitative marketing, and decision sciences.
 
-In addition, I am also teaching (as a part-time lecturer) a Master's level course in organisational communication.
-
-I do not believe in 'suffer till success', neither do I believe that working 9-to-5 behind office desks is gonna get you anywhere. The dedication to academic research, work ethics, and excellence does not come from the mundane clocking-in / clock-out efforts, but should be in your own 'tank of creativity' sustained by an equilibrium between work and fun.
