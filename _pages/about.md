@@ -1,17 +1,17 @@
 ---
-layout: about
-title: about
+layout: About
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: B.A., M.Soc.Sc
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>8/F, Communication and Visual Arts Bldg (CVA), HKBU</p>
+    <p>5 Hereford Road, Kowloon Tong</p>
+    <p>Kowloon, HKSAR</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently a Ph.D. candidate at School of Communication, Hong Kong Baptist University. My main research interest lies in organisational communication, particularly the interactional and cross-cultural dynamics between organisational members in the Information and Communication Technologies (ICTs) permeated workplace. I also take on cross-disciplinary interests (and also have collaborations with some nice people)in organisational behaviour, management information system, quantitative marketing, and decision sciences.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+In addition, I am also teaching (as a part-time lecturer) a Master's level course in organisational communication.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I do not believe in 'suffer till success', neither do I believe that working 9-to-5 behind office desks is gonna get you anywhere. The dedication to academic research, work ethics, and excellence does not come from the mundane clocking-in / clock-out efforts, but should be in your own 'tank of creativity' sustained by an equilibrium between work and fun.
