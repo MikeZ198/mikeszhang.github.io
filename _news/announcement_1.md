@@ -1,8 +1,8 @@
 ---
 layout: post
-date: Aug 15, 2025
+date: Jul 29, 2025
 inline: true
 related_posts: false
 ---
 
-Award
+[ICA Top Student Paper Award (ORG COMM Division)](https://www.hkbu.edu.hk/en/whats-new/campus-digest/2025/0729-faculty-and-students-honoured-at-international-communication-conference.html)
