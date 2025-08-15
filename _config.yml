@@ -631,11 +631,11 @@ jsonresume:
   - work
   - education
   - publications
-  - projects
-  - volunteer
   - awards
   - certificates
   - skills
   - languages
+  - volunteer
   - interests
   - references
+  - projects
