@@ -1,35 +1,35 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "'Mike' Shunhao ZHANG",
+    "occupation": "PhD Candidate in Organisational Communication",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "mikezhang@life.hkbu.edu.hk",
+    "phone": "(1) 947-7332-771",
+    "url": "https://mikeshzhang.github.io",
+    "summary": "PhD Candidate in Organisational Communication",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "8/F Lee Shaw Kee Communication and Visual Arts Bldg, HKBU",
+      "postalCode": "Kowloon Tong",
+      "city": "Kowloon",
+      "countryCode": "Hong Kong",
+      "region": "Hong Kong SAR"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "themikezhang",
+        "url": "https://twitter.com/themikezhang"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "School of Communication, Hong Kong Baptist University",
+      "position": "PhD Candidate in Organisational Communication",
+      "url": "https://comd.hkbu.edu.hk/research/phd-mphil/",
+      "startDate": "2023-09-01",
+      "endDate": "2027-09-01",
+      "summary": "Pursuing PhD in communication and organsational studies.",
       "highlights": ["Relativity"]
     }
   ],
