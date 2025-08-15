@@ -445,8 +445,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-nil",
+          title: 'Nil',
           description: "",
           section: "News",},{id: "news-ica-top-student-paper-award-org-comm-division",
           title: 'ICA Top Student Paper Award (ORG COMM Division)',
