@@ -435,8 +435,8 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
+      },{id: "books-culture-2-0",
+          title: 'Culture 2.0',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
