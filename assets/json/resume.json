@@ -4,7 +4,7 @@
     "occupation": "PhD Candidate in Organisational Communication",
     "image": "",
     "email": "mikezhang@life.hkbu.edu.hk",
-    "phone": "(1) 947-7332-771",
+    "phone": "(852) 5261-2495 / NEVER contact me via phone unless very urgent!",
     "url": "https://mikeshzhang.github.io",
     "summary": "PhD Candidate in Organisational Communication",
     "location": {
@@ -30,8 +30,31 @@
       "startDate": "2023-09-01",
       "endDate": "2027-09-01",
       "summary": "Pursuing PhD in communication and organsational studies.",
-      "highlights": ["Relativity"]
+      "highlights": ["Organisational Communication", "Employee Behaviour", "Management Information System"]
     }
+  ],
+   "education": [
+    {
+      "institution": "Hong Kong Baptist University",
+      "location": "Kowloon, Hong Kong",
+      "url": "https://www.hkbu.edu.hk/",
+      "area": "Communication",
+      "studyType": "Doctor of Philosophy",
+      "startDate": "2023-09-01",
+      "endDate": "2027-09-01",
+      "score": "3.9/4",
+      "courses": ["Communication Theory", "Communication Research Method", "Global Media", "Advanced Social Psychology for Business Research"]
+    }
+     {
+      "institution": "University of Zurich, Zurich, Switzerland",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.uzh.ch/",
+      "area": "Software Development",
+      "studyType": "PhD",
+      "startDate": "1905-01-01",
+      "endDate": "1905-01-01",
+      "score": "10",
+      "courses": ["Communication Theory", "Communication Research Method", "Global Media", "Advanced Social Psychology for Business Research"]
   ],
   "volunteer": [
     {
@@ -43,19 +66,6 @@
       "endDate": "2015-07-01",
       "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
     }
   ],
   "awards": [
