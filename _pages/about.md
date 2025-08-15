@@ -30,7 +30,7 @@ latest_posts:
 
 I was born and raised in Shanghai, China, and currently work and live in Hong Kong and the Greater Bay Area.
 
-I am currently a Ph.D. candidate at [School of Communication, Hong Kong Baptist University](https://www.comm.hkbu.edu.hk/comd-www/english/front/index.htm) under the supervision of Prof. Jos BARTELS. My research interest lies in organisational communication, particularly the interactional and cross-cultural dynamics between employees, managers, and organisations in the digital era. I also take up interdisciplinary interests (and have active collaborations with some nice people) in organisational behaviour, management information system, quantitative marketing, and decision sciences, trying the combine insights from varied fields to expand the scope of my focal works.
+I am currently a Ph.D. candidate at [School of Communication, Hong Kong Baptist University](https://www.comm.hkbu.edu.hk/comd-www/english/front/index.htm) under the supervision of Prof. Jos BARTELS. My research interest lies in organisational communication, particularly the interactional and cross-cultural interplay between employees, managers, organisations, and technologies in the digital era. I also take up interdisciplinary interests (and have active collaborations with some nice people) in organisational behaviour, management information system, quantitative marketing, and decision sciences, trying the combine insights from varied fields to expand the scope of my focal works.
 
 In addition, I am currently teaching (as a part-time lecturer) a Master's level course in organisational communication in our school.
 
