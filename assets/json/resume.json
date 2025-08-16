@@ -29,14 +29,14 @@
       "url": "https://hkbu.edu.hk",
       "startDate": "1933-01-01",
       "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "summary": "Teaching a Master's-level Organisational Communication Course.",
       "highlights": ["Relativity"]
     }
   ],
   "volunteer": [
     {
       "organization": "Hong Kong Baptist Univeristy",
-      "location": "Kowloon Tong, Hong Kong",
+      "location": "Hong Kong",
       "position": "Emcee",
       "url": "https://example.com",
       "startDate": "2025-06-25",
@@ -56,6 +56,17 @@
       "endDate": "2027-09-01",
       "score": "3.9/4",
       "courses": ["Communication, Organisational Behaviours, Management Information System, Computational Social Science"]
+    },
+    {
+      "institution": "The Chinese University of Hong Kong",
+      "location": "Hong Kong",
+      "url": "https://www.cuhk.edu.hk/",
+      "area": "Corporate Communication",
+      "studyType": "Master of Social Science",
+      "startDate": "2020-09-01",
+      "endDate": "2021-09-01",
+      "score": "3.8/4",
+      "courses": ["Communication, Public Relations, Global Communication, Digital Humanities, Advertising"]
     }
   ],
   "awards": [
