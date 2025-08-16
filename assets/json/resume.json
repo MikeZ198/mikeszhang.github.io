@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "'Mike' Shunhao ZHANG",
-    "label": "PhD Candidate",
+    "label": "Doctoral Candidate",
     "image": "",
     "email": "bestmike198@outlook.com",
-    "phone": "(852) 5261-2495 NEVER contact me via phone unless very urgent!",
+    "phone": "(852) 5261-2495 NEVER contact me via phone unless it's very urgent!",
     "url": "https://mikeshzhang.github.io",
-    "summary": "PhD Candidate and Start-up Researcher in Organisational Communication",
+    "summary": "PhD candidate and start-up Researcher in Organisational Communication",
     "location": {
       "address": "8/F Lee Shaw Kee Communication and Visual Arts Bldg, HKBU",
       "postalCode": "Kowloon Tong",
@@ -24,9 +24,9 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
+      "name": "School of Communication, Hong Kong Baptist University",
+      "position": "Part-time Lecturer",
+      "url": "https://hkbu.edu.hk",
       "startDate": "1933-01-01",
       "endDate": "1955-01-01",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
@@ -35,36 +35,36 @@
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
+      "organization": "Hong Kong Baptist Univeristy",
+      "location": "Kowloon Tong, Hong Kong",
+      "position": "Emcee",
       "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "startDate": "2025-06-25",
+      "endDate": "2025-06-26",
+      "summary": "Served as an emcee for the HKBU International Advisory Board for Graduate Studies Meeting",
+      "highlights": ["Nil"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Hong Kong Baptist University",
+      "location": "Kowloon Tong, Hong Kong",
+      "url": "https://www.hkbu.edu.hk/",
+      "area": "Organisational Communication",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2023-09-01",
+      "endDate": "2027-09-01",
+      "score": "3.9/4",
+      "courses": ["Communication, Organisational Behaviours, Management Information System, Computational Social Science"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Top Student Paper Award",
+      "date": "2025-06-14",
+      "awarder": "International Communication Association",
+      "url": "https://www.icahdq.org/default.aspx",
+      "summary": "Received a top student paper award from the ORG COMM Division of the ICA."
     }
   ],
   "certificates": [
