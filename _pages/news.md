@@ -1,6 +1,6 @@
 ---
 layout: page
-title: what's up
+title: "what's up"
 permalink: /news/
 ---
 
