@@ -17,12 +17,4 @@ profiles:
       <p>School of Communication</p>
       <p>Hong Kong Baptist U</p>
       <p>Hong Kong</p>
-  - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>Affiliation1</p>
-      <p>Affiliation2</p>
-      <p>City</p>
 ---
