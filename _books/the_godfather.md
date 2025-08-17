@@ -1,5 +1,5 @@
 ---
-layout: book-review
+layout: book-shelf
 title: Culture 2.0
 author: Joann Keyton
 cover: assets/img/book_covers/Culture_2_Org.png
