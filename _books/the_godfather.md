@@ -1,6 +1,6 @@
 ---
 layout: book-shelf
-title: Culture 2.0: The Intersection of National and Organizational Culture
+title: Culture 2.0 The Intersection of National and Organizational Culture
 author: Joann Keyton
 cover: assets/img/book_covers/Culture_2_Org.png
 olid: OL43499941M # use Open Library ID to fetch cover (if no `cover` is provided)
