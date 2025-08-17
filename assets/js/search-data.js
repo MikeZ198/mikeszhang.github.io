@@ -51,8 +51,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "books-culture-2-0",
-          title: 'Culture 2.0',
+        },{id: "books-",
+          title: '',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
