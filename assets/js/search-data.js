@@ -56,6 +56,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
+            },},{id: "books-thinking-fast-and-slow",
+          title: 'Thinking Fast and Slow',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/thinking_fast_slow.html";
             },},{id: "news-nil",
           title: 'Nil',
           description: "",
