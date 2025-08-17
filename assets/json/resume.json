@@ -30,7 +30,7 @@
       "startDate": "1933-01-01",
       "endDate": "1955-01-01",
       "summary": "Teaching a Master's-level Organisational Communication Course.",
-      "highlights": ["Relativity"]
+      "highlights": ["Technology", "Employee Relations", "LMX"]
     }
   ],
   "volunteer": [
@@ -102,44 +102,44 @@
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Occupational Qualification for Translators",
+      "date": "2021-11-14",
+      "issuer": "Ministry of Human Resources of the PRC",
+      "url": "http://www.mohrss.gov.cn/",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Test for English Majors Band 8",
+      "date": "2021-04-01",
+      "issuer": "Shanghai International Studies U",
+      "url": "https://www.shisu.edu.cn",
       "icon": "fa-solid fa-tag"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Improve Postgraduate Learning Study Scheme",
+      "date": "2020-11-01",
+      "issuer": "The Chinese U of Hong Kong",
+      "url": "https://www.cuhk.edu.hk",
       "icon": "fa-solid fa-envelope"
     },
     {
-      "name": "Quantum Cryptography",
+      "name": "Nil",
       "date": "2018-01-01",
-      "issuer": "Stanford University",
+      "issuer": "University",
       "url": "https://example.com",
       "icon": "fa-solid fa-hashtag"
     },
     {
-      "name": "Quantum Communication",
+      "name": "Nil",
       "date": "2018-01-01",
-      "issuer": "Stanford University",
+      "issuer": "University",
       "url": "https://example.com",
       "icon": "fa-solid fa-calendar"
     },
     {
-      "name": "Quantum Teleportation",
+      "name": "Nil",
       "date": "2018-01-01",
-      "issuer": "Stanford University",
+      "issuer": "University",
       "url": "https://example.com",
       "icon": "fa-solid fa-clipboard-check"
     }
