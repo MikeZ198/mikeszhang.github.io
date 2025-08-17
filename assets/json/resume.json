@@ -98,47 +98,54 @@
       "awarder": "International Communication Association",
       "url": "https://www.icahdq.org/default.aspx",
       "summary": "Received a top student paper award from the ORG COMM Division of the ICA."
+    },
+    {
+      "title": "Dean's List",
+      "date": "2021-04-14",
+      "awarder": "The Chinese U of Hong Kong",
+      "url": "https://www.cuhk.edu.hk",
+      "summary": "The Dean's List 2020-2021 for outstanding academic performance."
     }
   ],
   "certificates": [
     {
       "name": "Occupational Qualification for Translators",
-      "date": "2021-11-14",
+      "date": "2021",
       "issuer": "Ministry of Human Resources of the PRC",
       "url": "http://www.mohrss.gov.cn/",
       "icon": "fa-solid fa-location-dot"
     },
     {
       "name": "Test for English Majors Band 8",
-      "date": "2021-04-01",
+      "date": "2021",
       "issuer": "Shanghai International Studies U",
       "url": "https://www.shisu.edu.cn",
       "icon": "fa-solid fa-tag"
     },
     {
-      "name": "Improve Postgraduate Learning Study Scheme",
-      "date": "2020-11-01",
+      "name": "Improve Postgraduate Learning Study Certificate",
+      "date": "2020",
       "issuer": "The Chinese U of Hong Kong",
       "url": "https://www.cuhk.edu.hk",
       "icon": "fa-solid fa-envelope"
     },
     {
       "name": "Nil",
-      "date": "2018-01-01",
+      "date": "2018",
       "issuer": "University",
       "url": "https://example.com",
       "icon": "fa-solid fa-hashtag"
     },
     {
       "name": "Nil",
-      "date": "2018-01-01",
+      "date": "2018",
       "issuer": "University",
       "url": "https://example.com",
       "icon": "fa-solid fa-calendar"
     },
     {
       "name": "Nil",
-      "date": "2018-01-01",
+      "date": "2018",
       "issuer": "University",
       "url": "https://example.com",
       "icon": "fa-solid fa-clipboard-check"
@@ -146,39 +153,39 @@
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Gossip Hurts More in the Tower of Babel",
+      "publisher": "International Communication Assn.",
+      "releaseDate": "2025-06-12",
+      "url": "https://scholars.hkbu.edu.hk/en/publications/94b88b44-32fa-4492-88fb-ff5e2c18b1ba",
+      "summary": "Employees’ self-perceived negative workplace gossip is negatively associated with their OBSE, both directly and indirectly through feelings of social exclusion."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "An Information Processing Model on the Relationship Between Employees’ Need for Closure, Perceived Information Richness, and After-Hour Mobile Connectivity",
+      "publisher": "International Communication Assn.",
+      "releaseDate": "2025-06-12",
+      "url": "https://scholars.hkbu.edu.hk/en/publications/444ce0a2-13ab-41bc-ac5d-382654629b04",
+      "summary": "Both employees’ message checking and responding intentions are associated with the medium instead of the message, and Need For Cognitive Closure seems to be a crucial moderator in the decision-making process."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Evaluation of an Electronic Service-Learning Course Utilizing Regular and Intensive Delivery Modes: The Hong Kong Experience",
+      "publisher": "Sage",
+      "releaseDate": "2023-10-10",
+      "url": "https://journals.sagepub.com/doi/abs/10.1177/10497315231207054",
+      "summary": "Students showed significant positive changes in both e-SL modes on positive youth development attributes, service leadership qualities, and life satisfaction, with greater changes among students taking the intensive mode."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "Statistical Analysis",
+      "level": "Advanced",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "SPSS",
+        "R Studio",
+        "STATA",
+        "Regression Analysis",
+        "Structural Equation Modelling",
+        "Bayesian"
       ]
     }
   ],
@@ -196,35 +203,35 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Gaming",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "STEAM",
+        "XBOX",
+        "Nitendo Switch",
+        "PC",
+        "Play Station",
+        "Hardcore"
       ]
     }
   ],
   "references": [
     {
-      "name": "Professor John Doe",
+      "name": "Nil",
       "icon": "fa-solid fa-laptop",
       "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
     {
-      "name": "Professor John Doe",
+      "name": "Nil",
       "icon": "fa-solid fa-thumbtack",
       "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "name": "Nil",
+      "summary": "Nil.",
+      "highlights": ["Nil"],
       "startDate": "2018-01-01",
       "endDate": "2018-01-01",
       "url": "https://example.com"
