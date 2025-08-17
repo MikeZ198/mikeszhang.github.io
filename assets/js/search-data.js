@@ -46,7 +46,7 @@ ninja.data = [{
           },
         },{id: "nav-people",
           title: "people",
-          description: "This page serves to pay tribute to, and publicise the nice collaborators I met (upon thier consent).",
+          description: "This page serves to pay tribute to, and publicise the nice collaborators I met (upon their consent).",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
