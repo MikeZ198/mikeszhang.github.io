@@ -51,8 +51,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "books-",
-          title: '',
+        },{id: "books-culture-2-0-the-intersection-of-national-and-organizational-culture",
+          title: 'Culture 2.0 The Intersection of National and Organizational Culture',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
