@@ -478,7 +478,7 @@ ninja.data = [{
         title: 'Custom_social',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.mikezhang.github.io/", "_blank");
+          window.open("https://mikeshzhang.github.io/", "_blank");
         },
       },{
       id: 'light-theme',
