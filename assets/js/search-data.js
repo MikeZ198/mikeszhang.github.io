@@ -56,6 +56,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
+            },},{id: "books-the-sociological-imagination",
+          title: 'The Sociological Imagination',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_sociological_imagination.html";
             },},{id: "books-thinking-fast-and-slow",
           title: 'Thinking Fast and Slow',
           description: "",
