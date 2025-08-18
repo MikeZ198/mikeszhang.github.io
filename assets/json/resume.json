@@ -213,6 +213,18 @@
         "Play Station",
         "3A Games"
       ]
+    },
+    {
+      "name": "Sports",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Jogging",
+        "Swimming",
+        "Biking",
+        "Weightlifting",
+        "Hiking",
+        "Racing Karts"
+      ]
     }
   ],
   "references": [
