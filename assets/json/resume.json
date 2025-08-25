@@ -102,6 +102,13 @@
   ],
   "awards": [
     {
+      "title": "Postgraduate Academic Achievement Award",
+      "date": "2025-08-25",
+      "awarder": "Hong Kong Baptist University",
+      "url": "https://www.hkbu.edu.hk",
+      "summary": "Academic Achievement Award for outstanding academic performance."
+    },
+    {
       "title": "Top Student Paper Award",
       "date": "2025-06-14",
       "awarder": "International Communication Association",
@@ -109,11 +116,18 @@
       "summary": "Received a top student paper award from the ORG COMM Division of the ICA."
     },
     {
-      "title": "Dean's List",
+      "title": "Dean's List Honours",
       "date": "2021-04-14",
       "awarder": "The Chinese U of Hong Kong",
       "url": "https://www.cuhk.edu.hk",
       "summary": "The Dean's List 2020-2021 for outstanding academic performance."
+    },
+    {
+      "title": "Postgraduate Academic Excellence Award",
+      "date": "2021-02-20",
+      "awarder": "The Chinese U of Hong Kong",
+      "url": "https://www.cuhk.edu.hk",
+      "summary": "Academic Excellence Award for outstanding academic performance during the 2020-21 academic year."
     }
   ],
   "certificates": [
