@@ -71,11 +71,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2.html";
-            },},{id: "news-nil",
-          title: 'Nil',
-          description: "",
-          section: "News",},{id: "news-ica-top-student-paper-award-org-comm-division",
+            },},{id: "news-ica-top-student-paper-award-org-comm-division",
           title: 'ICA Top Student Paper Award (ORG COMM Division)',
+          description: "",
+          section: "News",},{id: "news-hkbu-postgraduate-academic-achievement-award",
+          title: 'HKBU Postgraduate Academic Achievement Award',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
